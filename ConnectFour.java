@@ -39,6 +39,7 @@ public class ConnectFour {
                 break;
             }
             //repeats first part of the while loop for player 2
+	    //comment for lab 6
             System.out.print("\nPlayer 2: Which column would you like to choose? ");
             chipType = 'o';
             col = scnr.nextInt();
